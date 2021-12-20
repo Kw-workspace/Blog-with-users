@@ -11,7 +11,7 @@
 .idea/dictionaries/
 .idea/libraries/
 .idea/misc.xml
-.idea/modules.xml
+/.idea/modules.xml
 .idea/tasks.xml
 .idea/scopes/scope_settings.xml
 .idea/workspace.xml
