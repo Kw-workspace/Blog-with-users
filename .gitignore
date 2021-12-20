@@ -3,7 +3,20 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=flask
 
 
-/.idea/
+# User-specific configurations
+.idea/caches/build_file_checksums.ser
+.idea/codeStyles/
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/dictionaries/
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/tasks.xml
+.idea/scopes/scope_settings.xml
+.idea/workspace.xml
+.idea/.name
+*.iml
 
 ### Flask ###
 instance/*
